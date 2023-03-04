@@ -1,6 +1,7 @@
 # CPClient
-
 An alternative Club Penguin Client for any Club Penguin Private Server
+
+## Archived!!! Moved to [CPAvalanche](https://github.com/Club-Penguin-Avalanche/CPAClient)
 
 ## Installation
 
